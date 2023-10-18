@@ -81,4 +81,4 @@ menu(id_zalogowanego, rodzaj)
 
 txt.py
 
-Plik zawiera komunikaty tekstowe dla wszystkich uzytkownikow przeniesione z plików z kodem dla zwiększenia przejrzystości kodu.
+Plik zawiera komunikaty tekstowe dla wszystkich uzytkownikow przeniesione z plików z kodem dla zwiększenia przejrzystości.
